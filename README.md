@@ -7,4 +7,4 @@ Download Link:
 
 http://www.mediafire.com/?siqcq51vgupdlo5
 
-Currently the games in epic.txt and indie.txt are the games that I own.  You should configure it with your games, though!
+Currently the games in the text files epic.txt and indie.txt in the .zip download are the games that I own.  You should configure it with your games, though!
